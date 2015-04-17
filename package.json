@@ -35,6 +35,7 @@
     "ho-conformance-base": "^0.1.0"
   },
   "devDependencies": {
-    "babel": "^5.1.9"
+    "babel": "^5.1.9",
+    "tape": "^4.0.0"
   }
 }
