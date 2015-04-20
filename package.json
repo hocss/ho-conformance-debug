@@ -1,6 +1,6 @@
 {
   "name": "ho-conformance-debug",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "debug ho conformance task",
   "main": "dist/index.js",
   "scripts": {
