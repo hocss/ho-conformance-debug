@@ -1,6 +1,6 @@
 {
   "name": "ho-conformance-debug",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "debug ho conformance task",
   "main": "dist/index.js",
   "scripts": {
@@ -31,8 +31,9 @@
   "dependencies": {
     "chalk": "^1.0.0",
     "core-js": "^0.8.3",
-    "ho-conformance-events": "^0.1.0",
-    "ho-conformance-base": "^0.1.0"
+    "ho-conformance-base": "^0.3.0",
+    "ho-conformance-events": "^0.2.0",
+    "ho-conformance-logger": "^0.1.0"
   },
   "devDependencies": {
     "babel": "^5.1.9",
